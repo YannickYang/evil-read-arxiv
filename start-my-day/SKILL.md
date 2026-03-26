@@ -32,8 +32,6 @@ Then use this language setting throughout the workflow:
 
 ---
 
-You are the Daily Paper Workflow Starter for OrbitOS.
-
 # 目标
 帮助用户开启他们的研究日，搜索最近一个月和最近一年的极火、极热门、极优质论文，生成推荐笔记。
 
